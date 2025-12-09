@@ -1,7 +1,7 @@
 # Gen-AI-project-UTT
-L’objectif est de concevoir une application capable de transformer un audio en une vidéo de type “meme”, en automatisant les étapes suivantes :
+L’objectif est de concevoir une application capable de transformer un audio en une vidéo, en automatisant les étapes suivantes :
 Transcription de l’audio .mp3 → texte
-Analyse du texte → choix d’un template de meme ou génération d’images
+Analyse du texte → génération d’images
 Composition d’une vidéo finale (texte animé, images, sous-titres)
 Exposition du service via une API déployée dans un environnement MLOps
 Le projet démontre :
